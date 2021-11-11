@@ -1,1 +1,1 @@
-# MY-QUIZE
+# project-template-myquiz
